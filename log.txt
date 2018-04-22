@@ -1,0 +1,147 @@
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 21:39:23 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,toy story
+
+Data Output: 
+
+Movie Title: Undefined
+Year: 2014
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 21:39:46 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,toy story
+
+Data Output: 
+
+Movie Title: Undefined
+Year: 2014
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 21:40:23 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,shawshank redemption
+
+Data Output: 
+
+Movie Title: Undefined
+Year: 2014
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 21:41:59 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,shawshank redemption
+
+Data Output: 
+
+Movie Title: Undefined
+Year: 2014
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 22:21:38 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,shawshank
+
+Data Output: 
+
+Movie Title: The Shawshank Redemption
+Year: 1994
+IMDB rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 22:34:56 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,shawshank
+
+Data Output: 
+
+Movie Title: The Shawshank Redemption
+Year: 1994
+IMDB rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 22:58:20 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,shawshank
+
+Data Output: 
+
+Movie Title: The Shawshank Redemption
+Year: 1994
+IMDB rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+-----OMDB Log Entry End-----
+
