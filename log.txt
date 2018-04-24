@@ -145,6 +145,7 @@ Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
 
 -----OMDB Log Entry End-----
 
+<<<<<<< HEAD
 -----OMDB Log Entry Start-----
 
 Processed on:
@@ -790,3 +791,5 @@ URL Preview: https://p.scdn.co/mp3-preview/4215c0bdf5758360e0d2afee9ca7a4eb4687a
 =============================
 -----Spotify Log Entry End-----
 
+=======
+>>>>>>> 9b47533308f35d924e71f3a348b89dd361117608
