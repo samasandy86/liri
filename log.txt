@@ -1,0 +1,792 @@
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 21:39:23 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,toy story
+
+Data Output: 
+
+Movie Title: Undefined
+Year: 2014
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 21:39:46 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,toy story
+
+Data Output: 
+
+Movie Title: Undefined
+Year: 2014
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 21:40:23 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,shawshank redemption
+
+Data Output: 
+
+Movie Title: Undefined
+Year: 2014
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 21:41:59 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,shawshank redemption
+
+Data Output: 
+
+Movie Title: Undefined
+Year: 2014
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: Lebanon
+Language: Arabic
+Plot: N/A
+Actors: Dana Ahmed, Fouz Alfahad, Nour Arida, Soraya Bakhtiar
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 22:21:38 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,shawshank
+
+Data Output: 
+
+Movie Title: The Shawshank Redemption
+Year: 1994
+IMDB rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 22:34:56 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,shawshank
+
+Data Output: 
+
+Movie Title: The Shawshank Redemption
+Year: 1994
+IMDB rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Apr 21 2018 22:58:20 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri_app.js,movie-this,shawshank
+
+Data Output: 
+
+Movie Title: The Shawshank Redemption
+Year: 1994
+IMDB rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sun Apr 22 2018 23:12:18 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,movie-this,Toy Story
+
+Data Output: 
+
+Movie Title: Toy Story
+Year: 1995
+IMDB rating: 8.3
+Rotten Tomatoes Rating: 100%
+Country: USA
+Language: English
+Plot: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+Actors: Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+
+-----OMDB Log Entry End-----
+
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sun Apr 22 2018 23:17:19 GMT-0500 (CDT)
+
+terminal commands: 
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,my-tweets
+
+Data Output: 
+
+1. Tweet: It's nice to have friends to help in coding!
+Tweeted on: Sun Apr 22 04:10:59 +0000 2018
+
+2. Tweet: Twitter is going through some things! It won't work with my API!
+Tweeted on: Sun Apr 22 04:10:31 +0000 2018
+
+3. Tweet: Learning stuff about Twitter bots and node.js...yay me!
+Tweeted on: Sun Apr 22 01:58:12 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sun Apr 22 2018 23:19:25 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,movie-this,Back To The Future
+
+Data Output: 
+
+Movie Title: Back to the Future
+Year: 1985
+IMDB rating: 8.5
+Rotten Tomatoes Rating: 96%
+Country: USA
+Language: English
+Plot: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
+Actors: Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
+
+-----OMDB Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Sun Apr 22 2018 23:20:28 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,spotify-this-song,Thong Song
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Sisqo
+Song title: Thong Song
+Album name: Unleash The Dragon
+URL Preview: null
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Sun Apr 22 2018 23:24:34 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,spotify-this-song,Thong Song
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Sisqo
+Song title: Thong Song
+Album name: Unleash The Dragon
+URL Preview: null
+=============================
+-----Spotify Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sun Apr 22 2018 23:25:15 GMT-0500 (CDT)
+
+terminal commands: 
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,do-what-it-says
+
+Data Output: 
+
+1. Tweet: It's nice to have friends to help in coding!
+Tweeted on: Sun Apr 22 04:10:59 +0000 2018
+
+2. Tweet: Twitter is going through some things! It won't work with my API!
+Tweeted on: Sun Apr 22 04:10:31 +0000 2018
+
+3. Tweet: Learning stuff about Twitter bots and node.js...yay me!
+Tweeted on: Sun Apr 22 01:58:12 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sun Apr 22 2018 23:27:09 GMT-0500 (CDT)
+
+terminal commands: 
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,do-what-it-says
+
+Data Output: 
+
+1. Tweet: It's nice to have friends to help in coding!
+Tweeted on: Sun Apr 22 04:10:59 +0000 2018
+
+2. Tweet: Twitter is going through some things! It won't work with my API!
+Tweeted on: Sun Apr 22 04:10:31 +0000 2018
+
+3. Tweet: Learning stuff about Twitter bots and node.js...yay me!
+Tweeted on: Sun Apr 22 01:58:12 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sun Apr 22 2018 23:27:13 GMT-0500 (CDT)
+
+terminal commands: 
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,do-what-it-says
+
+Data Output: 
+
+1. Tweet: It's nice to have friends to help in coding!
+Tweeted on: Sun Apr 22 04:10:59 +0000 2018
+
+2. Tweet: Twitter is going through some things! It won't work with my API!
+Tweeted on: Sun Apr 22 04:10:31 +0000 2018
+
+3. Tweet: Learning stuff about Twitter bots and node.js...yay me!
+Tweeted on: Sun Apr 22 01:58:12 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sun Apr 22 2018 23:27:26 GMT-0500 (CDT)
+
+terminal commands: 
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,do-what-it-says
+
+Data Output: 
+
+1. Tweet: It's nice to have friends to help in coding!
+Tweeted on: Sun Apr 22 04:10:59 +0000 2018
+
+2. Tweet: Twitter is going through some things! It won't work with my API!
+Tweeted on: Sun Apr 22 04:10:31 +0000 2018
+
+3. Tweet: Learning stuff about Twitter bots and node.js...yay me!
+Tweeted on: Sun Apr 22 01:58:12 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Sun Apr 22 2018 23:29:27 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,do-what-it-says
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Sleeping With Sirens
+Song title: Scene Two - Roger Rabbit
+Album name: If you were a movie, this would be your soundtrack
+URL Preview: https://p.scdn.co/mp3-preview/5c77a1ae03e4b96184e898277cfd6aec39cab4b7?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Sun Apr 22 2018 23:29:34 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,do-what-it-says
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Sleeping With Sirens
+Song title: Scene Two - Roger Rabbit
+Album name: If you were a movie, this would be your soundtrack
+URL Preview: https://p.scdn.co/mp3-preview/5c77a1ae03e4b96184e898277cfd6aec39cab4b7?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Sun Apr 22 2018 23:29:50 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,do-what-it-says
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Sleeping With Sirens
+Song title: Scene Two - Roger Rabbit
+Album name: If you were a movie, this would be your soundtrack
+URL Preview: https://p.scdn.co/mp3-preview/5c77a1ae03e4b96184e898277cfd6aec39cab4b7?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sun Apr 22 2018 23:45:03 GMT-0500 (CDT)
+
+terminal commands: 
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,my-tweets
+
+Data Output: 
+
+1. Tweet: It's nice to have friends to help in coding!
+Tweeted on: Sun Apr 22 04:10:59 +0000 2018
+
+2. Tweet: Twitter is going through some things! It won't work with my API!
+Tweeted on: Sun Apr 22 04:10:31 +0000 2018
+
+3. Tweet: Learning stuff about Twitter bots and node.js...yay me!
+Tweeted on: Sun Apr 22 01:58:12 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Sun Apr 22 2018 23:48:13 GMT-0500 (CDT)
+
+terminal commands: 
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,my-tweets
+
+Data Output: 
+
+1. Tweet: It's nice to have friends to help in coding!
+Tweeted on: Sun Apr 22 04:10:59 +0000 2018
+
+2. Tweet: Twitter is going through some things! It won't work with my API!
+Tweeted on: Sun Apr 22 04:10:31 +0000 2018
+
+3. Tweet: Learning stuff about Twitter bots and node.js...yay me!
+Tweeted on: Sun Apr 22 01:58:12 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Apr 23 2018 00:00:54 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,do-what-it-says
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Sleeping With Sirens
+Song title: Scene Two - Roger Rabbit
+Album name: If you were a movie, this would be your soundtrack
+URL Preview: https://p.scdn.co/mp3-preview/5c77a1ae03e4b96184e898277cfd6aec39cab4b7?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Mon Apr 23 2018 00:02:26 GMT-0500 (CDT)
+
+terminal commands: 
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,my-tweets
+
+Data Output: 
+
+1. Tweet: It's nice to have friends to help in coding!
+Tweeted on: Sun Apr 22 04:10:59 +0000 2018
+
+2. Tweet: Twitter is going through some things! It won't work with my API!
+Tweeted on: Sun Apr 22 04:10:31 +0000 2018
+
+3. Tweet: Learning stuff about Twitter bots and node.js...yay me!
+Tweeted on: Sun Apr 22 01:58:12 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----Tweets Log Entry Start-----
+
+Processed at: 
+Mon Apr 23 2018 00:04:05 GMT-0500 (CDT)
+
+terminal commands: 
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,my-tweets
+
+Data Output: 
+
+1. Tweet: It's nice to have friends to help in coding!
+Tweeted on: Sun Apr 22 04:10:59 +0000 2018
+
+2. Tweet: Twitter is going through some things! It won't work with my API!
+Tweeted on: Sun Apr 22 04:10:31 +0000 2018
+
+3. Tweet: Learning stuff about Twitter bots and node.js...yay me!
+Tweeted on: Sun Apr 22 01:58:12 +0000 2018
+
+-----Tweets Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Mon Apr 23 2018 00:05:37 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,movie-this,shawskank
+
+Data Output: 
+
+I'm sorry, I could not find any movies that matched the title shawskank . Please check your spelling and try again.
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Mon Apr 23 2018 00:05:47 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,movie-this,shawshank
+
+Data Output: 
+
+Movie Title: The Shawshank Redemption
+Year: 1994
+IMDB rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Mon Apr 23 2018 00:06:18 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,movie-this,spotify-this-song,Hammer,Time
+
+Data Output: 
+
+I'm sorry, I could not find any movies that matched the title spotify-this-song Hammer Time . Please check your spelling and try again.
+
+-----OMDB Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Apr 23 2018 00:06:51 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,spotify-this-song,Hammer Time
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Lecrae
+Song title: Hammer Time
+Album name: All Things Work Together
+URL Preview: https://p.scdn.co/mp3-preview/41fdc20566f7b0eb92aaab8b019fd470beead313?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Apr 23 2018 00:07:31 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,spotify-this-song,2,Hammer Time
+
+Data Output: 
+
+========= Result 1 =========
+Artist: Lecrae
+Song title: Hammer Time
+Album name: All Things Work Together
+URL Preview: https://p.scdn.co/mp3-preview/41fdc20566f7b0eb92aaab8b019fd470beead313?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 2 =========
+Artist: Lecrae
+Song title: Hammer Time
+Album name: Hammer Time
+URL Preview: https://p.scdn.co/mp3-preview/066f14e0bf51b2af83a9a130934848bfe9f07a6e?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Apr 23 2018 00:07:49 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,spotify-this-song,2,Faith
+
+Data Output: 
+
+========= Result 1 =========
+Artist: George Michael
+Song title: Faith - Remastered
+Album name: Faith
+URL Preview: https://p.scdn.co/mp3-preview/ad227db8dedb8bbe85768d81a804db1d6e537967?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 2 =========
+Artist: The Script
+Song title: For the First Time
+Album name: Science & Faith
+URL Preview: https://p.scdn.co/mp3-preview/dc95f21a49a5cfc603e4e8c7f35a785004f841e9?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Apr 23 2018 00:08:40 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,spotify-this-song,5,Faith
+
+Data Output: 
+
+========= Result 1 =========
+Artist: George Michael
+Song title: Faith - Remastered
+Album name: Faith
+URL Preview: https://p.scdn.co/mp3-preview/ad227db8dedb8bbe85768d81a804db1d6e537967?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 2 =========
+Artist: The Script
+Song title: For the First Time
+Album name: Science & Faith
+URL Preview: https://p.scdn.co/mp3-preview/dc95f21a49a5cfc603e4e8c7f35a785004f841e9?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 3 =========
+Artist: Sigala
+Song title: Lullaby
+Album name: Lullaby
+URL Preview: https://p.scdn.co/mp3-preview/f333b096a28a34d65c13d8616b18612b4665a7e6?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 4 =========
+Artist: Cowode
+Song title: Faith
+Album name: Even Keel
+URL Preview: https://p.scdn.co/mp3-preview/5ad3d2ced556a5efae0223cc9570771fdd55319e?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 5 =========
+Artist: Elevation Worship
+Song title: Give Me Faith
+Album name: Kingdom Come
+URL Preview: https://p.scdn.co/mp3-preview/0085a31b9a48a135591116cf5d391af9b9281afc?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Apr 23 2018 20:55:28 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,spotify-this-song,What Is Love
+
+Data Output: 
+
+========= Result 1 =========
+Artist: TWICE
+Song title: What is Love?
+Album name: What is Love?
+URL Preview: https://p.scdn.co/mp3-preview/8e942f1cea3700c5e94cfa6e66c9a07018074837?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Apr 23 2018 20:56:15 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri2.js,spotify-this-song,5,What Is Love
+
+Data Output: 
+
+========= Result 1 =========
+Artist: TWICE
+Song title: What is Love?
+Album name: What is Love?
+URL Preview: https://p.scdn.co/mp3-preview/8e942f1cea3700c5e94cfa6e66c9a07018074837?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 2 =========
+Artist: Haddaway
+Song title: What Is Love
+Album name: The Album
+URL Preview: null
+=============================
+
+========= Result 3 =========
+Artist: Foreigner
+Song title: I Want To Know What Love Is - Remastered
+Album name: Agent Provocateur
+URL Preview: https://p.scdn.co/mp3-preview/cb8c1bc4a400807b09d60c5c7d7402acdfe79988?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 4 =========
+Artist: Jaymes Young
+Song title: What Is Love
+Album name: What Is Love
+URL Preview: https://p.scdn.co/mp3-preview/fc4fb6fc440b262fc403594dbb843a5fc4b7a4d5?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 5 =========
+Artist: TWICE
+Song title: SWEET TALKER
+Album name: What is Love?
+URL Preview: https://p.scdn.co/mp3-preview/fb6e608c3a20723002975c7b475e823d1123525f?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Apr 23 2018 21:11:56 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri_app.js,spotify-this-song,5,What Is Love
+
+Data Output: 
+
+========= Result 1 =========
+Artist: TWICE
+Song title: What is Love?
+Album name: What is Love?
+URL Preview: https://p.scdn.co/mp3-preview/8e942f1cea3700c5e94cfa6e66c9a07018074837?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 2 =========
+Artist: Haddaway
+Song title: What Is Love
+Album name: The Album
+URL Preview: null
+=============================
+
+========= Result 3 =========
+Artist: Foreigner
+Song title: I Want To Know What Love Is - Remastered
+Album name: Agent Provocateur
+URL Preview: https://p.scdn.co/mp3-preview/cb8c1bc4a400807b09d60c5c7d7402acdfe79988?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 4 =========
+Artist: Jaymes Young
+Song title: What Is Love
+Album name: What Is Love
+URL Preview: https://p.scdn.co/mp3-preview/fc4fb6fc440b262fc403594dbb843a5fc4b7a4d5?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 5 =========
+Artist: TWICE
+Song title: SWEET TALKER
+Album name: What is Love?
+URL Preview: https://p.scdn.co/mp3-preview/fb6e608c3a20723002975c7b475e823d1123525f?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Apr 23 2018 21:13:13 GMT-0500 (CDT)
+
+terminal commands:
+/usr/local/Cellar/node/8.9.0/bin/node,/Users/samasandy/Desktop/UofM_Bootcamp/Week_8/Homework/liri/liri_app.js,spotify-this-song,5,Jigga What
+
+Data Output: 
+
+========= Result 1 =========
+Artist: JAY Z
+Song title: Jigga What / Faint
+Album name: Collision Course (Deluxe Version)
+URL Preview: https://p.scdn.co/mp3-preview/4ab237caec1912a70b2e7e8fe21bd37871b6f4d6?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 2 =========
+Artist: Freeway
+Song title: What We Do
+Album name: Philadelphia Freeway
+URL Preview: null
+=============================
+
+========= Result 3 =========
+Artist: T.I.
+Song title: Watch What You Say To Me (feat. Jay-Z)
+Album name: T.I. VS T.I.P.
+URL Preview: https://p.scdn.co/mp3-preview/d146918dedf2122fc83604295da61af716bd8f08?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 4 =========
+Artist: JAY Z
+Song title: Jigga What / Faint
+Album name: Collision Course
+URL Preview: https://p.scdn.co/mp3-preview/e9f50ccd32f5d407b5345dd5f150b2167f710f42?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+
+========= Result 5 =========
+Artist: JAY Z
+Song title: Jigga What / Faint - Live At Milton Keynes
+Album name: Road To Revolution: Live At Milton Keynes
+URL Preview: https://p.scdn.co/mp3-preview/4215c0bdf5758360e0d2afee9ca7a4eb4687a2c2?cid=c50ee662848143fe9f978eef58a2c4ef
+=============================
+-----Spotify Log Entry End-----
+
